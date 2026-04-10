@@ -16,8 +16,8 @@ an end-to-end pipeline:
 3. Churn Modeling: Built and compared models including Logistic Regression and Random Forest to predict churn probability
 4. CLV Estimation: Calculated customer lifetime value using revenue-based formulas based on tenure and spending
 5. Segmentation: Combined churn probability and CLV to classify customers into segments like:
-High Value – High Risk
-Low Value – High Risk
+- High Value – High Risk
+- Low Value – High Risk
 6. Deployment: Developed an interactive app using Streamlit and deployed it via Streamlit Community Cloud, allowing users to input customer data and receive predictions in real time
 
 🔴 R — Result
